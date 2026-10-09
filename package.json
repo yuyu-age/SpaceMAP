@@ -1,0 +1,11 @@
+{
+  "name": "space-link-map",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Device-local PDF booth map with local registration and offline support",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
